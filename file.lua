@@ -1,4 +1,4 @@
--- ASCII Art Header
+
 local function print_header()
     print([[
   ____  __  __  ____   __  ___  ____  _____  ____  
@@ -15,7 +15,7 @@ local function print_header()
     ]])
 end
 
--- Function to display the welcome message
+
 local function print_welcome_message()
     print("Welcome to FileXray")
     print("Please choose an option:")
